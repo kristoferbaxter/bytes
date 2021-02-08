@@ -1,6 +1,6 @@
 {
   "name": "@kristoferbaxter/bytes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fork of bytes in ESM, a utility to parse a string bytes to bytes and vice-versa",
   "main": "index.mjs",
   "repository": "https://github.com/kristoferbaxter/bytes",
@@ -8,6 +8,9 @@
   "contributors": [
     "Jed Watson <jed.watson@me.com>",
     "Théo FIDRY <theo.fidry@gmail.com>",
+    "Zhiyuan Wang <https://github.com/danny8002>",
+    "Rickard Laurin <https://github.com/believer>",
+    "Florian Keller <https://github.com/ffflorian>",
     "Kristofer Baxter <kristofer@kristoferbaxter.com>"
   ],
   "license": "MIT",
