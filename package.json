@@ -1,0 +1,30 @@
+{
+  "name": "@kristoferbaxter/bytes",
+  "version": "0.1.0",
+  "description": "Fork of bytes in ESM, a utility to parse a string bytes to bytes and vice-versa",
+  "main": "index.mjs",
+  "repository": "https://github.com/kristoferbaxter/bytes",
+  "author": "TJ Holowaychuk <tj@vision-media.ca> (http://tjholowaychuk.com)",
+  "contributors": [
+    "Jed Watson <jed.watson@me.com>",
+    "Théo FIDRY <theo.fidry@gmail.com>",
+    "Kristofer Baxter <kristofer@kristoferbaxter.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "byte",
+    "bytes",
+    "utility",
+    "parse",
+    "parser",
+    "convert",
+    "converter"
+  ],
+  "engines": {
+    "node": ">= 14"
+  },
+  "files": [
+    "LICENSE",
+    "index.mjs"
+  ]
+}
