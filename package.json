@@ -28,6 +28,8 @@
   },
   "files": [
     "LICENSE",
-    "index.mjs"
-  ]
+    "index.mjs",
+    "index.d.ts"
+  ],
+  "types": "index.d.ts"
 }
